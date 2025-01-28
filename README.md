@@ -28,3 +28,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravsoni04&show_icons=true&locale=en" alt="gauravsoni04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsoni04&" alt="gauravsoni04" /></p>
+
+
+
+
+
+
+![snake gif](https://github.com/GauravSoni04/GauravSoni04/blob/main/snake.yml.txt)
