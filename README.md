@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/GauravSoni04](https://github.com/GauravSoni04)
+- 👨‍💻 All of my projects are available at: [https://github.com/GauravSoni04](https://github.com/GauravSoni04)
 
-- ⚡ Fun fact **I am funny😉**
+- ⚡ Fun fact:- **I am funny😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
